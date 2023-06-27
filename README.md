@@ -1,8 +1,10 @@
 # image-resizer
+
 An image resizer for GIMP, intended for use with FiveM inventory resources.
 
 
 #Install
+
 ```Place resize.py in C:\Users\YourUsername\AppData\Roaming\GIMP\2.10\plug-ins\```
 
 ```Open GIMP, go to Python-Fu toolbar addition, and select Resize Images```
